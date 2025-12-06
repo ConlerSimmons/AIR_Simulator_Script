@@ -4,3 +4,4 @@ numpy
 pyecharts
 openpyxl
 xlrd
+xlwings
