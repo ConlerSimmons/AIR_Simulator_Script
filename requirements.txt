@@ -3,5 +3,3 @@ pandas
 numpy
 pyecharts
 openpyxl
-xlrd
-xlwings
